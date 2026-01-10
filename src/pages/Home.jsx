@@ -32,7 +32,7 @@ const Home = () => {
             <Sparkles className="w-4 h-4 absolute -top-1 -right-1 text-yellow-400" />
           </div>
           <h1 className="text-2xl font-bold bg-gradient-to-r from-white via-purple-200 to-pink-200 bg-clip-text text-transparent">
-            Invoicely
+            Invoicegen
           </h1>
         </div>
         
@@ -225,7 +225,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="mt-32 py-8 px-4 border-t border-white/10 text-center text-gray-400 text-sm">
-        <p>© 2024 Invoicely. All rights reserved. Made with ❤️ for freelancers worldwide.</p>
+        <p>© 2026 Invoicegen. All rights reserved.</p>
       </footer>
     </div>
   );
