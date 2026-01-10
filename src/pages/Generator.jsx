@@ -39,7 +39,7 @@ const Generator = () => {
       }
 
       // 2. Call the Backend (Port 3000)
-      const res = await axios.post('http://localhost:3000/api/invoice/generate', formData, {
+      const res = await axios.post('https://invoicegen.backend.abhijeetrana.com/api/invoice/generate', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },

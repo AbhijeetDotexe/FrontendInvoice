@@ -37,7 +37,7 @@ const Home = () => {
         </div>
         
         <div className="flex items-center gap-4">
-          <Link to="/login">
+          {/* <Link to="/login">
             <motion.button 
               className="px-6 py-2 rounded-full text-sm font-medium bg-white/5 hover:bg-white/10 backdrop-blur-sm border border-white/10 transition-all duration-300 hover:border-white/20"
               whileHover={{ scale: 1.05 }}
@@ -45,7 +45,7 @@ const Home = () => {
             >
               Sign In
             </motion.button>
-          </Link>
+          </Link> */}
           <Link to="/generate">
             <motion.button 
               className="px-6 py-2 rounded-full text-sm font-medium bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 transition-all duration-300 shadow-lg shadow-purple-500/25"
