@@ -167,7 +167,7 @@ const Home = () => {
             transition={{ delay: 1.2, duration: 0.8 }}
           >
             <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-              Why Choose Invoicely?
+              Why Choose Invoigen?
             </h2>
             
             <div className="grid md:grid-cols-3 gap-8">
@@ -206,7 +206,7 @@ const Home = () => {
             
             <h2 className="text-4xl font-bold mb-6">Ready to Transform Your Invoicing?</h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Join thousands of professionals who save hours every week with Invoicely.
+              Join thousands of professionals who save hours every week with Invoicegen.
             </p>
             
             <Link to="/generate">
