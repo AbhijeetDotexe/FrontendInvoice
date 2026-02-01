@@ -167,7 +167,7 @@ const Home = () => {
             transition={{ delay: 1.2, duration: 0.8 }}
           >
             <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-              Why Choose Invoigen?
+              Why Choose Invoicegen?
             </h2>
             
             <div className="grid md:grid-cols-3 gap-8">
